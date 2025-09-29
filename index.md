@@ -327,7 +327,7 @@ After everything is done, we will undo the relink, leaving the system in an untr
 
 # Where to find the code
 
-The full code and supporting artifacts are available on GitHub. 
+The full code and supporting artifacts are available on [GitHub](https://github.com/Flerov/TestSigningUser/tree/main)
 
 ---
 
